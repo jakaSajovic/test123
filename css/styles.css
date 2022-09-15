@@ -61,12 +61,9 @@ p {
   bottom: 300px;
 }
 
-.lappytoppy {
-  transform: scale(0.5);
-}
 
 .prog {
-  transform: scale(0.5);
+  
   margin: 0 auto;
   width: 60%;
   float: left;
@@ -74,7 +71,7 @@ p {
 }
 
 .call {
-  transform: scale(0.5);
+  
   margin: 0;
   width: 50%;
 }
