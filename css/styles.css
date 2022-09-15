@@ -1,0 +1,139 @@
+body {
+  background: linear-gradient(90deg, grey, navy);
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+a {
+  color: #11999E;
+}
+
+
+div {
+
+  margin-left: 0;
+}
+
+h1 {
+  font-family: "Parisienne", cursive;
+  margin: 50px auto 0 auto;
+  font-size: 5em;
+  color: #66BFBF;
+
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  color: #11999E;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+}
+
+.top-container {
+  background-color: lightcyan;
+  border: none;
+  padding-top: 100px;
+  position: relative;
+}
+
+
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
+
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.lappytoppy {
+  transform: scale(0.5);
+}
+
+.prog {
+  /* transform: scale(0.5); */
+  margin: 0 auto;
+  width: 60%;
+  float: left;
+  margin-right: 10px;
+}
+
+.call {
+  transform: scale(0.5);
+  margin: 0;
+  width: 50%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.prog-desc {
+  clear: left;
+}
+
+.btn {
+  background: #51b3f5;
+  background-image: -webkit-linear-gradient(top, #51b3f5, #055b91);
+  background-image: -moz-linear-gradient(top, #51b3f5, #055b91);
+  background-image: -ms-linear-gradient(top, #51b3f5, #055b91);
+  background-image: -o-linear-gradient(top, #51b3f5, #055b91);
+  background-image: linear-gradient(to bottom, #51b3f5, #055b91);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  text-shadow: 3px 1px 0 #666666;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+
+}
+
+.btn:hover {
+  background: #a4dafc;
+  background-image: -webkit-linear-gradient(top, #a4dafc, #00edc9);
+  background-image: -moz-linear-gradient(top, #a4dafc, #00edc9);
+  background-image: -ms-linear-gradient(top, #a4dafc, #00edc9);
+  background-image: -o-linear-gradient(top, #a4dafc, #00edc9);
+  background-image: linear-gradient(to bottom, #a4dafc, #00edc9);
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  text-shadow: 1px 1px 0 white;
+  
+
+
+}
+
+.bottom-container {
+  margin-top: 20px;
+}
+
+.contact-me {
+  margin-bottom: 40px;
+}
+
+.this-fkn-p {
+  margin-bottom: 40px;
+}
